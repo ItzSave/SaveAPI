@@ -1,0 +1,4 @@
+name: SaveAPI
+version: '${version}'
+main: org.itzsave.SaveAPI
+api-version: 1.19
