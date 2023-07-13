@@ -17,7 +17,6 @@ public class ColorUtils {
      * @param legacyText The string to convert from legacy to adventure
      * @return Converted legacy text to adventure formatting.
      */
-
     public static String replaceLegacy(String legacyText) {
         return legacyText
                 .replaceAll("&1", "<dark_blue>")
